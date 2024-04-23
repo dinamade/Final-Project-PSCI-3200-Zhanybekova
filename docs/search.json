@@ -12,5 +12,12 @@
     "title": "Final Project",
     "section": "",
     "text": "Hello, this is my website\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "new_page.html",
+    "href": "new_page.html",
+    "title": "new page",
+    "section": "",
+    "text": "Hello, this is another page\n\n1 + 1\n\n[1] 2"
   }
 ]
