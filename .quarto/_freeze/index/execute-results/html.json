@@ -1,7 +1,7 @@
 {
-  "hash": "44aa2c0d63ec27fbe2d480c7c3ba31e5",
+  "hash": "724a7c77888d143ce17aa35ff29ac648",
   "result": {
-    "markdown": "---\ntitle: \"Final Project\"\nauthor: \"Dina Zhanybekova\"\n---\n\n\nHello, this\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "markdown": "---\ntitle: \"Final Project\"\nauthor: \"Dina Zhanybekova\"\n---\n\n\nHello, this is my website\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

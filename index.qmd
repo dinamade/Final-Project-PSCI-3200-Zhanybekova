@@ -3,7 +3,7 @@ title: "Final Project"
 author: "Dina Zhanybekova"
 ---
 
-Hello, this
+Hello, this is my website
 
 ```{r}
 1 + 1
