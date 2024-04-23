@@ -1,5 +1,6 @@
 ---
-title: "psci 3200 zhanybekova"
+title: "Final Project"
+author: "Dina Zhanybekova"
 ---
 
 This is a Quarto website.
