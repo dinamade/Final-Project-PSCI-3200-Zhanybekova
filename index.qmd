@@ -386,6 +386,7 @@ modelsummary(
 ```
 
 #### Regression Model Summary - Female Respondents
+
 ```{r}
 #| echo: false
 #| warning: false
@@ -400,7 +401,6 @@ modelsummary(
              statistic = NULL,
   gof_omit = 'IC|RMSE|Log|F|R2$|Std.')
 ```
-
 
 #### Interpreting Regression Model Summary
 
@@ -492,8 +492,8 @@ modelsummary(
 
 ```
 
-
 #### Regression Model Summary - Female Respondents
+
 ```{r}
 #| echo: false
 #| warning: false
