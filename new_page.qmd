@@ -1,9 +1,0 @@
----
-title: "new page"
----
-
-Hello, this is another page
-
-```{r}
-1 + 1
-```
